@@ -65,3 +65,17 @@ book/
 
 ### 🔌 REST API
 ![REST API](screenshots/api.png)
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 🔐 Login
+![Login](screenshots/login.png)
+
+### 📚 Book Management
+![Book Management](screenshots/book-management.png)
+
+### 🔌 REST API
+![REST API](screenshots/api.png)
