@@ -60,9 +60,8 @@ book/
 ├── uv.lock
 ├── .gitignore
 └── README.md
+```
 
-
-```markdown
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
