@@ -1,9 +1,6 @@
 # 📚 Django Book Management System
 
-A web-based **Book Management System** developed using **Django** and **Django REST Framework**.  
-This project provides a simple and user-friendly platform to manage books with CRUD operations, search, filtering, authentication, dashboard statistics, and REST API support.
-
----
+A web-based Book Management System developed using Django and Django REST Framework.
 
 ## 🚀 Features
 
@@ -15,31 +12,23 @@ This project provides a simple and user-friendly platform to manage books with C
 - 🏷️ Filter Books by Category
 - 📄 Pagination
 - 📊 Dashboard with Statistics
-- 📈 Category-wise Chart
+- 📈 Category Chart
 - 🔌 REST API
-- 📥 GET, POST, PUT, PATCH and DELETE API Operations
+- 📥 GET, POST, PUT, PATCH and DELETE API operations
 - 🎨 Bootstrap 5 Responsive UI
-- 👤 Login-protected Book Management
-- 🛡️ Django Admin Panel
-- ✅ Success Messages after CRUD Operations
-
----
 
 ## 🛠️ Technologies Used
 
-- 🐍 Python
-- 🌐 Django
-- 🔌 Django REST Framework
-- 📄 HTML5
-- 🎨 CSS3
-- 🅱️ Bootstrap 5
-- ⚡ JavaScript
-- 🗄️ SQLite
-- 🔧 Git
-- 🐙 GitHub
-- 📦 uv
-
----
+- Python
+- Django
+- Django REST Framework
+- HTML
+- CSS
+- Bootstrap 5
+- JavaScript
+- SQLite
+- Git & GitHub
+- uv
 
 ## 📂 Project Structure
 
@@ -53,12 +42,6 @@ book/
 │   ├── urls.py
 │   ├── admin.py
 │   └── templates/
-│       ├── books/
-│       │   ├── dashboard.html
-│       │   ├── book_register.html
-│       │   └── book_delete.html
-│       └── registration/
-│           └── login.html
 │
 ├── config/
 │   ├── settings.py
